@@ -22,7 +22,15 @@
             <div class="holder">
 
                 <form action="index.php" method="POST">
-                    
+
+                    <div class="wrapper">
+                        <input type="text" placeholder="Enter Username" name="name">
+                    </div>
+
+                    <div class="wrapper">
+                        <input type="submit" value="Submit" name="submit">
+                    </div>
+
                 </form>
 
             </div>
