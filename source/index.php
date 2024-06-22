@@ -17,5 +17,15 @@
         <h1 class="hero">
             <?php echo "The user's name is " . $_POST['name']?>
         </h1>
+
+        <div class="container">
+            <div class="holder">
+
+                <form action="index.php" method="POST">
+                    
+                </form>
+
+            </div>
+        </div>
     </body>
 </html>
