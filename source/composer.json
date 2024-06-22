@@ -1,0 +1,17 @@
+{
+    "name": "ismael/username",
+    "description": "A simple PHP project that asks for a username and displays it on the screen.",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "authors": [
+        {
+            "name": "Ismael-Moreira-Kt",
+            "email": "ismaelmoreiraubuntu@gmail.com"
+        }
+    ]
+}
