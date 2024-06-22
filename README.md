@@ -36,6 +36,26 @@
 
 
 <div>
+    <h2>How to run the tests</h2>
+    <br>
+    <h3>Open the source folder</h3>
+
+```bash
+    cd source
+```
+<br>
+    <h3>Run the tests</h3>
+
+```bash
+    ./vendor/bin/phpunit tests
+```
+</div>
+
+
+<br><br>
+
+
+<div>
     <h2>Running the project</h2>
     <br>
     <h3>Move the file to the apache files</h3>
