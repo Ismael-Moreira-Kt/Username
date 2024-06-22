@@ -22,7 +22,6 @@
             <div class="holder">
 
                 <form action="index.php" method="POST">
-
                     <div class="wrapper">
                         <input type="text" placeholder="Enter Username" name="name">
                     </div>
@@ -30,10 +29,11 @@
                     <div class="wrapper">
                         <input type="submit" value="Submit" name="submit">
                     </div>
-
                 </form>
 
             </div>
         </div>
+
+        <h4 class="footer">Made with <span>PHP</span></h4>
     </body>
 </html>
