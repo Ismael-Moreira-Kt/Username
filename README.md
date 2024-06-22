@@ -14,6 +14,33 @@
 
 
 <div>
+    <h2>Project Preview</h2>
+    <br>
+    <table align="center">
+        <tr>
+            <td align="center" width="300px">Stage</td>
+            <td align="center" width="300px">Image</td>
+        </tr>
+        <tr>
+            <td align="center">Home</td>
+            <td align="center">
+                <img src="./images/home.png" alt="Home Image">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Enter Username</td>
+            <td>
+                <img src="./images/name.png" alt="Username Image">
+            </td align="center">
+        </tr>
+    </table>
+</div>
+
+
+<br><br>
+
+
+<div>
     <h2>Installing the Project</h2>
     <br>
     <h3>Prerequisites</h3>
