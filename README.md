@@ -18,8 +18,15 @@
     <br>
     <h3>Prerequisites</h3>
     <ul>
-        <li><ul>PHP:</ul> 8.2.20</li>
-        <li><ul>Composer:</ul> 2.7.7</li>
-        <li><ul>Apache2:</ul> 2.4.59</li>
+        <li><b>PHP:</b> 8.2.20</li>
+        <li><b>Composer:</b> 2.7.7</li>
+        <li><b>Apache2:</b> 2.4.59</li>
     </ul>
+    <br>
+    <h3>Clone the project</h3>
+    <p>Once you have all the dependencies, simply clone the project.</p>
+
+```bash
+    git clone https://github.com/Ismael-Moreira-Kt/Username-Getter
+```
 </div>
