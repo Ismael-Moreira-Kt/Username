@@ -13,4 +13,9 @@
         <link rel="stylesheet" href="./assets/styles/style.css">
         <link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon">
     </head>
+    <body>
+        <h1 class="hero">
+            <?php echo "The user's name is " . $_POST['name']?>
+        </h1>
+    </body>
 </html>
