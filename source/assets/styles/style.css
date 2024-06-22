@@ -81,3 +81,19 @@ body {
 .holder input[type="submit"]:hover {
     background-color: #2563EB;
 }
+
+
+
+.hero,.footer {
+    text-align: center;
+    
+    color: #666;
+    
+    margin: 20px 0;
+}
+
+
+
+span {
+    color: #3B82F6;
+}
