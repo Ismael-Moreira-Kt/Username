@@ -3,7 +3,7 @@
     "description": "A simple PHP project that asks for a username and displays it on the screen.",
     "type": "project",
     "require-dev": {
-        "phpunit/phpunit": "@stable"
+        "phpunit/phpunit": "^11.0"
     },
     "authors": [
         {
